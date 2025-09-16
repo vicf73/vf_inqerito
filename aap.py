@@ -636,7 +636,7 @@ def survey_page():
             {
                 "title": "D. Focalização constante nos resultados dos clientes",
                 "questions": [
-                    "1. Todos na sua organização mantêm os mais elevados critérios de qualidade and serviço.",
+                    "1. Todos na sua organização mantêm os mais elevados critérios de qualidade e serviço.",
                     "2. Todos os processos de trabalho são elaborados de forma a facilitar aos seus clientes fazer negócios consigo."
                 ]
             },
